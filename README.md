@@ -6,9 +6,21 @@ Theory and design notes for treating systems and inquiry without forcing total c
 
 ## Current release
 
-This is a public title and scope statement. A citable, author-reviewed manuscript excerpt will be added before presenting it as a paper or formal theory.
+This repository includes a Japanese source-text summary, `texts/theory-summary.ja.md`. It is an author-provided design/theory note, not an empirical paper.
 
-これは公開用の題名と範囲の宣言です。論文や正式理論として提示する前に、著者確認済みで引用可能な原稿抜粋を追加します。
+日本語原文の理論・設計要約 `texts/theory-summary.ja.md` を収録しています。実証論文ではなく、著者による理論・設計ノートです。
+
+## Language / 言語
+
+The published text is Japanese. An English translation has not been reviewed or released.
+
+公開本文は日本語です。英語翻訳は査読・公開していません。
+
+## Reading boundary / 読む際の境界
+
+The file names proposed implementation areas. Those names describe a design correspondence; they do not claim that an implementation exists in this repository.
+
+本文には実装領域の名称が出ますが、それは設計上の対応です。このリポジトリに実装が存在することを主張するものではありません。
 
 ## Not a claim
 
